@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat&family=Roboto&family=Source+Serif+Pro&display=swap');
+
+.background {
+    background: url(../public/images/GroupBack.png);
+    background-position: center;
+    background-size: cover;
+}
+
+
+/* Montserrat */
+
